@@ -1,3 +1,4 @@
 modified blah change2 add
 new blahh
 new line see diff
+see restore works after add
